@@ -1,0 +1,9 @@
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Panasonic', 890, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Sony', 500, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Samsung', 390, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('LG', 900, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Motorola', 810, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('HT', 360, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Lenovo', 460, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('HP', 500, NOW());
+INSERT INTO productos(nombre, precio, create_at) VALUES ('Toshiba', 830, NOW());
